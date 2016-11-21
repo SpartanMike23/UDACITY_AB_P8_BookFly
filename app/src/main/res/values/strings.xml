@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Fly 4</string>
+    <string name="hint">Title/Author(s)</string>
+    <string name="search">Search</string>
+</resources>
